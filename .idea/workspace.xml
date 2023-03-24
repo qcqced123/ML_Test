@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8a7bae8e-b121-46e9-9dfc-57170f6c390b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/function/configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/inference_fn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/trainer_fn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/utils/dataset_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/utils/metrics_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/utils/model_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/utils/tokenizer_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/USPPPM/function/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/USPPPM/function/helper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seculayer\Documents\GitHub\ML_Test\USPPPM" />
+      <recent name="C:\Users\seculayer\Documents\GitHub\ML_Test\function" />
+      <recent name="C:\Users\seculayer\Documents\GitHub\ML_Test\function " />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679621603756</updated>
-      <workItem from="1679621607855" duration="380000" />
+      <workItem from="1679621607855" duration="504000" />
     </task>
     <servers />
   </component>
